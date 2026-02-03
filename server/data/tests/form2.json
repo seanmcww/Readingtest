@@ -1,0 +1,373 @@
+{
+  "formNumber": 2,
+  "totalTime": 25,
+  "totalQuestions": 26,
+  "topics": "School/Peer Friendship | Animal Behavior | Nature Observation",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Narrative Fiction",
+      "readingAge": "8-10",
+      "wordCount": 503,
+      "passage": "Liam stared at the blank canvas in front of him. Around the art room, his classmates were already painting— splashes of colour appearing on their projects. Miss Chen had given them complete freedom: paint anything that matters to you.\n\nThat was the problem. Everything Liam thought of seemed boring or silly. His house? Too ordinary. His dog? Everyone painted their pets. Football? He couldn't even draw a decent ball, let alone a whole match.\n\n\"Having trouble starting?\" asked a voice beside him. It was Aisha, the new girl who'd joined their class three weeks ago. Her canvas showed the beginnings of a cityscape, buildings sketched in confident lines.\n\n\"I don't know what to paint,\" Liam admitted. \"Nothing seems interesting enough.\"\n\nAisha considered this, tilting her head. \"What did you do this weekend?\"\n\n\"Nothing much. Helped my dad in the garden. We planted tomatoes.\"\n\n\"There you go,\" she said, as if it was obvious.\n\n\"Tomatoes?\" Liam laughed. \"That's even more boring than painting my house.\"\n\n\"Is it?\" Aisha picked up a brush. \"I moved here from Manchester last month. We lived in a flat with no garden, just a balcony. I'd never planted anything before.\" She paused, mixing colours on her palette. \"Your tomatoes might seem ordinary to you, but they're part of your life. That makes them matter.\"\n\nLiam thought about Saturday afternoon. The earthy smell of the soil. His dad showing him how to make a deep enough hole. The way the tiny plant looked fragile but determined, its leaves bright green against the dark earth. His dad had said, \"In a few months, we'll be eating these.\" The idea had seemed almost magical—something they planted today becoming food later.\n\nHe picked up his brush.\n\nTwo hours later, Miss Chen walked around viewing the finished paintings. She stopped at Liam's canvas. It showed two hands—one large, one smaller—placing a tomato plant in rich brown soil. The background was simple, just suggestions of a garden fence and blue sky, but the hands were detailed and careful.\n\n\"Tell me about this, Liam,\" Miss Chen said.\n\n\"It's me and my dad planting tomatoes,\" he explained, feeling suddenly self-conscious. \"I know it's not very—\"\n\n\"It's honest,\" Miss Chen interrupted gently. \"And honest art is always interesting. You've captured something real.\"\n\nAs Liam cleaned his brushes at the end of class, Aisha gave him a thumbs up. \"Told you,\" she said, grinning.\n\nLiam grinned back. Maybe the new girl was right. Maybe ordinary things weren't boring at all—they just needed someone to really look at them.",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "What was Miss Chen's instruction for the art project?",
+          "options": {
+            "A": "Paint your favourite animal",
+            "B": "Copy a famous painting",
+            "C": "Paint anything that matters to you",
+            "D": "Paint your house or family"
+          },
+          "correctAnswer": "C",
+          "skillType": "Literal Comprehension",
+          "difficultyLevel": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Where did Aisha move from?",
+          "options": {
+            "A": "London",
+            "B": "Birmingham",
+            "C": "Manchester",
+            "D": "Liverpool"
+          },
+          "correctAnswer": "C",
+          "skillType": "Literal Comprehension",
+          "difficultyLevel": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "When Liam says painting tomatoes is \"boring,\" what does he mean?",
+          "options": {
+            "A": "Tomatoes are an uninteresting vegetable",
+            "B": "The subject seems too ordinary or unexciting to make good art",
+            "C": "He doesn't like the colour of tomatoes",
+            "D": "Tomatoes are difficult to paint well"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Context",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 4,
+          "questionText": "Why was Liam having difficulty starting his painting?",
+          "options": {
+            "A": "He didn't have any painting skills",
+            "B": "He didn't like art class",
+            "C": "He thought nothing in his life was interesting enough to paint",
+            "D": "He wanted to copy Aisha's painting instead"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Basic",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 5,
+          "questionText": "What did Liam and his dad plant in the garden?",
+          "options": {
+            "A": "Flowers",
+            "B": "Carrots",
+            "C": "Trees",
+            "D": "Tomatoes"
+          },
+          "correctAnswer": "D",
+          "skillType": "Literal Comprehension",
+          "difficultyLevel": 1
+        },
+        {
+          "questionNumber": 6,
+          "questionText": "How did Liam feel when Miss Chen asked him to explain his painting?",
+          "options": {
+            "A": "Proud and confident",
+            "B": "Self-conscious and uncertain about its quality",
+            "C": "Angry that she singled him out",
+            "D": "Excited to show everyone"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Basic",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 7,
+          "questionText": "What does \"honest art\" mean when Miss Chen uses this phrase?",
+          "options": {
+            "A": "Art that doesn't copy others' work",
+            "B": "Art that is truthful about prices",
+            "C": "Art that captures something genuine and real from the artist's experience",
+            "D": "Art that follows all the rules correctly"
+          },
+          "correctAnswer": "C",
+          "skillType": "Vocabulary-Context",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 8,
+          "questionText": "What important lesson does Aisha help Liam understand?",
+          "options": {
+            "A": "That painting is easier than it looks",
+            "B": "That ordinary experiences from your own life can be meaningful and interesting",
+            "C": "That new students always have good advice",
+            "D": "That gardens make the best art subjects"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Intermediate",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 9,
+          "questionText": "Why does Aisha mention that she'd never planted anything before?",
+          "options": {
+            "A": "To show she knows less than Liam",
+            "B": "To change the subject from painting",
+            "C": "To help Liam see that his experience has value because it's not universal—others haven't done it",
+            "D": "To complain about living in a flat"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Inference",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 10,
+          "questionText": "What does the phrase \"the tiny plant looked fragile but determined\" reveal about Liam's observation?",
+          "options": {
+            "A": "He noticed scientific details about plant biology",
+            "B": "He saw qualities in the plant that reflected deeper meaning and possibility",
+            "C": "He was worried the plant would die",
+            "D": "He preferred smaller plants to larger ones"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Intermediate",
+          "difficultyLevel": 3
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Non-Fiction",
+      "readingAge": "10-12",
+      "wordCount": 398,
+      "passage": "Crows belong to the corvid family, which includes ravens, magpies, and jays. Scientists have long recognised these birds as remarkably intelligent, but recent research reveals cognitive abilities that rival those of great apes. Their problem-solving skills, memory, and capacity for innovation demonstrate a sophistication that challenges our understanding of animal intelligence.\n\nOne of the most striking demonstrations of crow intelligence involves tool use. In laboratory experiments, New Caledonian crows not only use tools but manufacture them. When presented with a straight piece of wire and food in a narrow tube, crows will bend the wire into a hook to retrieve the food—a behaviour requiring both understanding of cause and effect and the ability to modify materials for a specific purpose. Wild crows have been observed fashioning hooks from twigs and using them to extract insects from tree bark.\n\nCrows also display impressive memory capabilities. Research in Seattle showed that crows can remember individual human faces for at least five years. In the study, researchers wearing distinctive masks captured and tagged crows. Years later, when people wore those same masks near the crows' territory, the birds reacted with alarm calls and defensive behaviour—even crows that hadn't been captured themselves joined in, suggesting they'd learned about the \"dangerous humans\" from others.\n\nPerhaps most remarkably, crows appear capable of analogical reasoning—understanding relationships between things. In experiments where crows had to match objects by relationship rather than appearance (choosing two containers that were the same size, regardless of colour), they succeeded at rates comparable to great apes. This abstract thinking was previously thought to be distinctly primate.\n\nThe corvid brain, though only the size of a human thumb, contains as many neurons as some primate brains. These neurons are packed more densely, particularly in areas equivalent to the mammalian cerebral cortex. This neural density may explain their cognitive capabilities despite their small brain size.\n\nCrows also demonstrate cultural transmission—behaviours passed from one generation to the next through learning rather than instinct. In urban Japan, crows have learned to drop nuts onto roads for cars to crack open, waiting patiently for traffic lights to change before safely retrieving their meal. Young crows learn this innovative technique by watching their elders, creating a genuine crow culture.\n\nUnderstanding crow intelligence reminds us that sophisticated cognition evolved along multiple pathways. Intelligence isn't exclusive to large-brained mammals—it can emerge in dramatically different forms across the animal kingdom.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "questionText": "According to the passage, which birds belong to the corvid family?",
+          "options": {
+            "A": "Sparrows, finches, and robins",
+            "B": "Eagles, hawks, and falcons",
+            "C": "Crows, ravens, magpies, and jays",
+            "D": "Parrots, cockatoos, and macaws"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Literal",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 12,
+          "questionText": "What does \"cognitive\" mean in the phrase \"cognitive abilities\"?",
+          "options": {
+            "A": "Physical or athletic abilities",
+            "B": "Related to thinking, learning, and mental processes",
+            "C": "Social or communication abilities",
+            "D": "Instinctive or automatic behaviours"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Context",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 13,
+          "questionText": "How long can crows remember individual human faces according to the Seattle research?",
+          "options": {
+            "A": "Several weeks",
+            "B": "About one year",
+            "C": "At least five years",
+            "D": "Their entire lifetime"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Retrieval",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 14,
+          "questionText": "What does the wire-bending experiment demonstrate about crow intelligence?",
+          "options": {
+            "A": "That crows have good eyesight",
+            "B": "That crows understand cause and effect and can modify materials to solve problems",
+            "C": "That crows are stronger than other birds",
+            "D": "That crows prefer wire to natural materials"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Intermediate",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 15,
+          "questionText": "What is \"cultural transmission\" as described in the passage?",
+          "options": {
+            "A": "Crows communicating through songs",
+            "B": "Behaviours passed from one generation to the next through learning rather than instinct",
+            "C": "Crows migrating to new territories",
+            "D": "The spread of crow populations across continents"
+          },
+          "correctAnswer": "B",
+          "skillType": "Comprehension-Synthesis",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 16,
+          "questionText": "Why did crows that hadn't been captured still react to the masked researchers?",
+          "options": {
+            "A": "All crows instinctively fear masks",
+            "B": "The crows were defending their territory from strangers",
+            "C": "They had learned about the dangerous humans from other crows who were captured",
+            "D": "They recognized the researchers' voices"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Intermediate",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 17,
+          "questionText": "The passage states that crows can perform \"analogical reasoning.\" Based on context, this means:",
+          "options": {
+            "A": "Making loud analogies or comparisons",
+            "B": "Understanding relationships between things rather than just matching by appearance",
+            "C": "Analyzing their environment for food",
+            "D": "Reasoning with other crows"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Analysis",
+          "difficultyLevel": 4
+        },
+        {
+          "questionNumber": 18,
+          "questionText": "What is the main point the passage makes about animal intelligence?",
+          "options": {
+            "A": "Crows are more intelligent than all other animals",
+            "B": "Only mammals can be truly intelligent",
+            "C": "Intelligence evolved in multiple ways and isn't exclusive to large-brained mammals",
+            "D": "Bird brains are identical to primate brains"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Inference",
+          "difficultyLevel": 4
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "title": "Literary Non-Fiction",
+      "readingAge": "13-15",
+      "wordCount": 451,
+      "passage": "November mornings have a particular quality of light—thin and silver, as if the sun is rationing its warmth. I've been watching autumn surrender to winter from my kitchen window, a process that unfolds in subtle shifts rather than dramatic announcements. The oak tree in our garden serves as my calendar, more reliable than any app.\n\nThree weeks ago, the oak blazed orange and gold, each leaf a small flame against the grey sky. I remember thinking it looked defiant, this last brilliant performance before the inevitable stripping away. But nature isn't sentimental. Within days, the wind arrived—not the playful gusts of September but something more purposeful, methodical. It worked through the branches like an invisible gardener, pruning without mercy.\n\nNow, in early December, perhaps a dozen leaves remain, clinging to the highest branches. They're brown and curled, holding on through some stubborn chemistry I don't fully understand. Yesterday, I watched a blackbird land on a bare branch, and the tree seemed to ring with the impact, a sound I'd never noticed when foliage muffled everything. The tree has become a different instrument, producing winter's spare music.\n\nWhat strikes me most is the revelation of structure. The oak's architecture, hidden all summer beneath its canopy, now stands exposed: the thick trunk dividing into major limbs, these subdividing into smaller branches, finally resolving into twigs so fine they nearly disappear against the pale sky. It's like looking at an X-ray or a river system seen from above—patterns that were always there but invisible, obscured by abundance.\n\nThere's a strange intimacy in this exposure. I can trace the tree's history in its asymmetry: the branch that grew sideways to avoid a neighbor's roof, the gap where lightning struck five years ago, the gnarled section where some ancient injury healed over. In summer's fullness, these stories were secrets. Winter makes them legible.\n\nThe garden beneath has changed its character too. What was lush and generous in August now lies dormant and severe. The soil, no longer hidden beneath growth, shows its texture—dark and rich where I've been adding compost, lighter and exhausted in neglected corners. A garden in winter offers no flattery; it shows you exactly what you've done and what you've failed to do.\n\nYet there's something clarifying about this honesty. Walking through the bare garden yesterday, breath visible in the cold air, I felt oddly grateful. Summer's abundance can overwhelm—so much growth, so many flowers demanding attention. Winter strips away distraction. What remains is essential: strong roots, good bones, the architecture that will support next year's abundance.\n\nPerhaps this is winter's gift—not emptiness, but clarity. The truth beneath the decoration. The structure that makes everything else possible.",
+      "questions": [
+        {
+          "questionNumber": 19,
+          "questionText": "What does the author mean by describing the light as \"rationing its warmth\"?",
+          "options": {
+            "A": "The sun is being unfair in distributing heat",
+            "B": "The sunlight is being carefully limited or given out sparingly, suggesting scarcity",
+            "C": "The government controls winter sunlight",
+            "D": "The light is completely absent in winter"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Sophisticated",
+          "difficultyLevel": 4
+        },
+        {
+          "questionNumber": 20,
+          "questionText": "Why does the author describe the oak tree as looking \"defiant\" in its autumn colours?",
+          "options": {
+            "A": "Because oak trees don't normally change colour",
+            "B": "Because the tree is fighting against being cut down",
+            "C": "Because the brilliant display seems like resistance against the approaching winter and loss of leaves",
+            "D": "Because the tree is blocking the author's view"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Advanced",
+          "difficultyLevel": 4
+        },
+        {
+          "questionNumber": 21,
+          "questionText": "What does the author mean by saying \"nature isn't sentimental\"?",
+          "options": {
+            "A": "Nature doesn't have any emotions at all",
+            "B": "Nature follows its patterns and processes without regard for human feelings or attachments to beauty",
+            "C": "Nature is cruel to plants and animals",
+            "D": "The author dislikes emotional responses to nature"
+          },
+          "correctAnswer": "B",
+          "skillType": "Comprehension-Analytical",
+          "difficultyLevel": 4
+        },
+        {
+          "questionNumber": 22,
+          "questionText": "The author compares the bare oak tree to \"a different instrument, producing winter's spare music.\" This metaphor suggests:",
+          "options": {
+            "A": "Oak trees make actual musical sounds in winter",
+            "B": "The tree has transformed into something with a different quality and character, producing minimal, essential sounds",
+            "C": "Musical instruments are made from oak wood",
+            "D": "Winter is a time for playing music outdoors"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Figurative",
+          "difficultyLevel": 5
+        },
+        {
+          "questionNumber": 23,
+          "questionText": "What is the author's main insight about what winter reveals?",
+          "options": {
+            "A": "That trees are damaged and unhealthy",
+            "B": "That summer is more beautiful than winter",
+            "C": "That winter exposes essential structures and truths that abundance obscures, offering clarity rather than emptiness",
+            "D": "That gardens require more work in winter"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Advanced",
+          "difficultyLevel": 5
+        },
+        {
+          "questionNumber": 24,
+          "questionText": "According to the passage, why is the garden's winter state described as offering \"no flattery\"?",
+          "options": {
+            "A": "Because gardens don't need compliments",
+            "B": "Because winter clearly reveals the results of the gardener's efforts and neglect without concealing anything",
+            "C": "Because cold weather prevents plant growth",
+            "D": "Because the author doesn't like their garden in winter"
+          },
+          "correctAnswer": "B",
+          "skillType": "Comprehension-Synthesis",
+          "difficultyLevel": 5
+        },
+        {
+          "questionNumber": 25,
+          "questionText": "What does the author mean by describing the oak's asymmetry and injuries as \"stories\" that \"winter makes legible\"?",
+          "options": {
+            "A": "Someone wrote stories on the tree trunk",
+            "B": "The tree's physical features reveal its history and experiences, which become visible and readable when leaves fall",
+            "C": "Trees can communicate through their branches",
+            "D": "The tree has books hidden in its branches"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Advanced",
+          "difficultyLevel": 5
+        },
+        {
+          "questionNumber": 26,
+          "questionText": "The word \"legible\" comes from the Latin \"legere,\" meaning \"to read.\" In the context \"winter makes them legible,\" the author is using this word to suggest:",
+          "options": {
+            "A": "That the tree has writing on it that's easier to see in winter",
+            "B": "That winter makes the tree's history clear, readable, and understandable like text",
+            "C": "That legal documents are easier to read in cold weather",
+            "D": "That the tree can read better without leaves"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Analysis",
+          "difficultyLevel": 5
+        }
+      ]
+    }
+  ]
+}

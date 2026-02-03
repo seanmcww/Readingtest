@@ -1,0 +1,373 @@
+{
+  "formNumber": 3,
+  "totalTime": 25,
+  "totalQuestions": 26,
+  "topics": "Personal Challenge/Growth | Natural Phenomena | Travel/Place Description",
+  "parts": [
+    {
+      "partNumber": 1,
+      "title": "Narrative Fiction",
+      "readingAge": "8-10",
+      "wordCount": 496,
+      "passage": "Every Tuesday afternoon, Jasmine's class went swimming. For most students, it was the best lesson of the week. For Jasmine, it was torture. While her classmates raced and dived, she stayed in the shallow end, pretending she was practicing her strokes.\n\nThe problem was simple: Jasmine couldn't swim in deep water. She'd learned the basic movements in the shallow end, but the moment her feet couldn't touch the bottom, panic would grip her chest like a cold hand. She'd thrash back to where she could stand, heart hammering.\n\n\"You're doing the right movements,\" her instructor Mr. Davies had told her last week. \"You just need to trust yourself.\"\n\nTrust herself? That was easy for him to say, standing safely on the pool deck.\n\nToday felt different, though. As Jasmine climbed out of the pool after another shallow-end session, she noticed Ella sitting on the bench, her ankle wrapped in a bandage.\n\n\"What happened?\" Jasmine asked, sitting down beside her.\n\n\"Twisted it in PE yesterday,\" Ella sighed. \"I'm so gutted. The swimming gala is next month, and I've been training for ages.\"\n\nJasmine had forgotten about the gala. Each class could enter four swimmers for the relay race. She'd assumed it didn't involve her.\n\n\"Miss Rodriguez asked if you'd take my place,\" Ella continued. \"You'd need to swim one length. In the deep end, obviously.\"\n\nJasmine's stomach dropped. \"I can't. I mean, I don't swim in deep water.\"\n\n\"Oh.\" Ella looked genuinely disappointed. \"That's a shame. We really need four people, or the whole class can't compete.\"\n\nLater that evening, Jasmine couldn't stop thinking about it. Her whole class—thirty students—couldn't enter because she was too scared? It seemed unfair. She thought about how Ella had looked, disappointed not just for herself but for everyone.\n\nThe next morning, Jasmine arrived at school early. She found Mr. Davies setting up equipment in the gym.\n\n\"Could you help me?\" she asked. \"With swimming in the deep end? I need to be able to do one length by next month.\"\n\nMr. Davies smiled. \"I can. But Jasmine, you already know how to swim. You just need to discover that for yourself.\"\n\nThey worked together every Tuesday morning before school. Mr. Davies didn't push her into the deep end. Instead, he had her swim in the shallow end but made her practice going underwater, holding her breath, feeling what it was like when her feet didn't touch. Gradually, he moved her closer to where the bottom sloped away.\n\nThree weeks later, Jasmine stood at the deep end's edge for the first time. Mr. Davies was in the water, a few meters away.\n\n\"Remember,\" he said calmly, \"you already know how to do this. Your body understands. Just let it.\"\n\nJasmine jumped. The water closed over her head, and for one terrifying second, the old panic flared. Then her arms began to move—the familiar strokes she'd practiced hundreds of times. Her legs kicked. And she was swimming, actually swimming, in water where she couldn't touch the bottom.\n\nWhen she reached Mr. Davies, she was laughing and gasping at the same time. \"I did it!\"\n\n\"You did,\" he agreed. \"Though really, you did it three weeks ago. You just needed to believe it.\"",
+      "questions": [
+        {
+          "questionNumber": 1,
+          "questionText": "What sport does Jasmine's class do every Tuesday afternoon?",
+          "options": {
+            "A": "Swimming",
+            "B": "Football",
+            "C": "Athletics",
+            "D": "Tennis"
+          },
+          "correctAnswer": "A",
+          "skillType": "Literal Comprehension",
+          "difficultyLevel": 1
+        },
+        {
+          "questionNumber": 2,
+          "questionText": "Why couldn't Ella participate in the swimming gala?",
+          "options": {
+            "A": "She was moving to a different school",
+            "B": "She didn't want to compete",
+            "C": "She twisted her ankle in PE",
+            "D": "She wasn't a strong swimmer"
+          },
+          "correctAnswer": "C",
+          "skillType": "Literal Comprehension",
+          "difficultyLevel": 1
+        },
+        {
+          "questionNumber": 3,
+          "questionText": "When Ella says she's \"gutted\" about her injury, what does she mean?",
+          "options": {
+            "A": "She needs surgery on her stomach",
+            "B": "She feels very disappointed and upset",
+            "C": "She's hungry after exercising",
+            "D": "She's relieved to avoid the competition"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Context",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 4,
+          "questionText": "What was Jasmine's main problem with swimming?",
+          "options": {
+            "A": "She didn't know the correct swimming strokes",
+            "B": "She was afraid of water in general",
+            "C": "She could do the movements but panicked in deep water where she couldn't touch bottom",
+            "D": "She didn't have time to practice"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Basic",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 5,
+          "questionText": "How many swimmers does each class need for the relay race?",
+          "options": {
+            "A": "Two swimmers",
+            "B": "Three swimmers",
+            "C": "Four swimmers",
+            "D": "Five swimmers"
+          },
+          "correctAnswer": "C",
+          "skillType": "Literal Comprehension",
+          "difficultyLevel": 1
+        },
+        {
+          "questionNumber": 6,
+          "questionText": "Why did Jasmine decide to ask Mr. Davies for help?",
+          "options": {
+            "A": "Because her parents made her",
+            "B": "Because she wanted to win a prize",
+            "C": "Because she felt responsible for letting her whole class down if she didn't learn",
+            "D": "Because Ella forced her to take her place"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Basic",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 7,
+          "questionText": "What does Mr. Davies mean when he says Jasmine needs to \"discover that for yourself\"?",
+          "options": {
+            "A": "She needs to find the deep end of the pool",
+            "B": "She needs to realize or prove to herself that she already has the ability to swim",
+            "C": "She needs to take swimming lessons on her own",
+            "D": "She needs to discover a new swimming stroke"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Context",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 8,
+          "questionText": "What does Mr. Davies's training approach reveal about his understanding of Jasmine's problem?",
+          "options": {
+            "A": "He knows she needs to learn completely new swimming techniques",
+            "B": "He understands her problem is confidence and mental, not physical skill",
+            "C": "He thinks she should avoid the deep end forever",
+            "D": "He believes she's not trying hard enough"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Intermediate",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 9,
+          "questionText": "What is the main message or theme of this story?",
+          "options": {
+            "A": "Swimming is dangerous and should be avoided",
+            "B": "You should always help your friends when they're injured",
+            "C": "Often we already have abilities we need—we just need confidence to use them",
+            "D": "Teachers always know better than students"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Inference",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 10,
+          "questionText": "When Mr. Davies says \"you did it three weeks ago,\" what does he mean?",
+          "options": {
+            "A": "Jasmine actually swam in deep water three weeks earlier",
+            "B": "Jasmine possessed the physical ability to swim three weeks ago when training started",
+            "C": "The swimming gala was three weeks ago",
+            "D": "Jasmine made a promise three weeks earlier"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Intermediate",
+          "difficultyLevel": 3
+        }
+      ]
+    },
+    {
+      "partNumber": 2,
+      "title": "Non-Fiction",
+      "readingAge": "10-12",
+      "wordCount": 405,
+      "passage": "The old saying \"lightning never strikes twice in the same place\" is demonstrably false. Lightning frequently strikes the same location repeatedly, particularly tall structures like skyscrapers and transmission towers. The Empire State Building in New York is struck roughly 100 times per year. Yet this persistent myth reveals something interesting about how humans understand probability and rare events.\n\nLightning forms when ice crystals in storm clouds collide, creating an electrical charge. The bottom of the cloud becomes negatively charged, while the ground below develops a positive charge. When the difference becomes large enough, electricity discharges through the air in the brilliant flash we see as lightning. The actual bolt we observe is the return stroke—electricity rushing back up from the ground to the cloud at roughly one-third the speed of light.\n\nThe path lightning takes isn't random. It follows the route of least resistance through the air. Tall, pointed objects like trees, buildings, or even people standing in open fields create easier pathways for electricity to reach the ground. This is why these structures get struck repeatedly—they remain the most convenient targets in their area. The Empire State Building's height makes it a natural lightning rod, consistently offering the easiest path between cloud and earth.\n\nThunder, lightning's acoustic companion, results from the bolt's intense heat. Lightning heats the surrounding air to approximately 30,000 degrees Celsius—five times hotter than the sun's surface. This extreme temperature causes the air to expand explosively, creating the shock wave we hear as thunder. The rumbling quality of thunder occurs because the sound reaches us at different times from different parts of the lightning bolt's path.\n\nThe delay between seeing lightning and hearing thunder allows us to estimate distance. Light travels so quickly that we see the flash almost instantaneously. Sound, however, travels much slower—roughly one kilometer every three seconds. By counting the seconds between flash and thunder, then dividing by three, you can calculate your approximate distance from the strike in kilometers.\n\nUnderstanding lightning's physics helps explain why the \"never strikes twice\" myth persists. Lightning strikes are dramatic and memorable events. When we experience one, our brains focus on the immediate location and moment, making a repeat strike at that exact spot seem impossibly unlikely. We forget that \"the same place\" might mean a building, mountain, or tower that presents the same attractive target storm after storm. The saying confuses specific moments with enduring geography. Lightning doesn't remember where it struck—it simply follows the laws of physics, over and over again.",
+      "questions": [
+        {
+          "questionNumber": 11,
+          "questionText": "How many times per year is the Empire State Building struck by lightning?",
+          "options": {
+            "A": "About 10 times",
+            "B": "About 50 times",
+            "C": "About 100 times",
+            "D": "About 200 times"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Literal",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 12,
+          "questionText": "What does \"demonstrably\" mean in the phrase \"demonstrably false\"?",
+          "options": {
+            "A": "Probably or possibly",
+            "B": "Able to be proven or shown through evidence",
+            "C": "Traditionally or historically",
+            "D": "Surprisingly or shockingly"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Context",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 13,
+          "questionText": "How hot does lightning heat the surrounding air?",
+          "options": {
+            "A": "About 3,000 degrees Celsius",
+            "B": "About 10,000 degrees Celsius",
+            "C": "About 30,000 degrees Celsius",
+            "D": "About 100,000 degrees Celsius"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Retrieval",
+          "difficultyLevel": 2
+        },
+        {
+          "questionNumber": 14,
+          "questionText": "Why do tall structures like the Empire State Building get struck by lightning repeatedly?",
+          "options": {
+            "A": "They attract electricity like magnets",
+            "B": "They are made of metal that conducts electricity",
+            "C": "They consistently offer the easiest path of least resistance between clouds and ground",
+            "D": "They store electrical charges from previous strikes"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Intermediate",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 15,
+          "questionText": "If you see lightning and hear thunder 9 seconds later, approximately how far away is the lightning?",
+          "options": {
+            "A": "3 kilometers",
+            "B": "6 kilometers",
+            "C": "9 kilometers",
+            "D": "27 kilometers"
+          },
+          "correctAnswer": "A",
+          "skillType": "Comprehension-Synthesis",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 16,
+          "questionText": "According to the passage, why does thunder have a rumbling quality rather than being a single sharp sound?",
+          "options": {
+            "A": "Because lightning creates multiple bolts simultaneously",
+            "B": "Because sound from different parts of the lightning bolt's path reaches us at different times",
+            "C": "Because thunder echoes off clouds repeatedly",
+            "D": "Because our ears can't process the sound properly"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Intermediate",
+          "difficultyLevel": 3
+        },
+        {
+          "questionNumber": 17,
+          "questionText": "The passage describes thunder as lightning's \"acoustic companion.\" The word \"acoustic\" most specifically relates to:",
+          "options": {
+            "A": "Visual appearance and light",
+            "B": "Sound and hearing",
+            "C": "Temperature and heat",
+            "D": "Electrical charge and energy"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Analysis",
+          "difficultyLevel": 4
+        },
+        {
+          "questionNumber": 18,
+          "questionText": "According to the passage, why does the \"lightning never strikes twice\" myth persist despite being false?",
+          "options": {
+            "A": "Because people don't understand basic physics",
+            "B": "Because lightning strikes are so rare that people never see them",
+            "C": "Because humans focus on specific moments and forget that locations remain consistent targets based on geography",
+            "D": "Because the myth is actually true in most cases"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Inference",
+          "difficultyLevel": 4
+        }
+      ]
+    },
+    {
+      "partNumber": 3,
+      "title": "Literary Non-Fiction",
+      "readingAge": "13-15",
+      "wordCount": 446,
+      "passage": "I arrive at the Marrakech souk before sunrise, when the ancient medina is still half-dreaming. The narrow alleyways, which will later throng with tourists and locals alike, lie nearly empty in the blue pre-dawn light. My footsteps echo against walls that have stood for centuries, and for a brief moment, I could be walking through any era—1920, 1820, perhaps even 1220.\n\nThe city reveals itself gradually, like a photograph developing. First comes the bread: the yeasty aroma drifting from bakeries where men slide round loaves into traditional clay ovens. The scent is fundamental, primal—it speaks of sustenance and survival, unchanged across millennia. I follow my nose to a small bakery where the baker, his face illuminated by the oven's glow, hands me a still-warm khobz without a word. We're too early for conversation; we communicate through gesture and shared understanding.\n\nAs the sky lightens from indigo to pearl, the market begins its transformation. Metal shutters roll upward with a distinctive rumble that reverberates down the covered passages. Shopkeepers arrange their displays with practiced efficiency: pyramids of spices in impossible shades—saffron yellow, paprika red, cumin brown. The colors are so vivid they seem artificial, though they're anything but. These are the same pigments that colored medieval manuscripts, that stained the robes of sultans, that traveled the ancient trade routes connecting three continents.\n\nThe air grows complex with layered scents: mint tea brewing in silver pots, leather being worked in the tanneries, orange blossoms from hidden courtyards. Each smell carries information—time of day, season, proximity to particular quarters of the souk. I've learned to navigate partly by nose, recognizing the sharp bite of the metalworkers' district, the sweet heaviness near the perfume vendors, the earthy richness surrounding the vegetable stalls.\n\nBy seven, the transformation is complete. Voices rise in a dozen languages and dialects. Vendors call out their wares in rhythmic Arabic; tourists attempt halting French or English; locals negotiate in rapid Darija. The cacophony shouldn't work—it's chaotic, overlapping, occasionally discordant. Yet somehow it creates a kind of urban symphony, each voice finding its place in the overall composition.\n\nWhat strikes me most forcefully is the continuity. This same market has operated on this same spot for nearly a thousand years. The goods have changed—plastic toys alongside traditional ceramics, polyester djellabas among handwoven wool—but the fundamental pattern persists. People still gather at dawn to buy and sell, to negotiate and socialize, to participate in commerce that is simultaneously transaction and ritual.\n\nStanding in the growing crowd, warm bread in hand, I feel briefly connected to something larger than myself: the endless human need to gather, to trade, to transform raw materials into objects of use and beauty. The souk isn't frozen in the past—it's a living tradition, adapting while maintaining its essential character. This is what authenticity really means: not resistance to change, but continuity of purpose.",
+      "questions": [
+        {
+          "questionNumber": 19,
+          "questionText": "The word \"souk\" appears in the passage. Based on context, what is a souk?",
+          "options": {
+            "A": "A traditional Middle Eastern or North African marketplace",
+            "B": "A type of traditional bread",
+            "C": "An ancient religious building",
+            "D": "A narrow alleyway in old cities"
+          },
+          "correctAnswer": "A",
+          "skillType": "Vocabulary-Sophisticated",
+          "difficultyLevel": 4
+        },
+        {
+          "questionNumber": 20,
+          "questionText": "Why does the author say they \"could be walking through any era\" in the early morning?",
+          "options": {
+            "A": "Because they're lost and confused about the date",
+            "B": "Because the empty, ancient streets have a timeless quality unchanged across centuries",
+            "C": "Because Marrakech hasn't changed at all in 800 years",
+            "D": "Because dawn makes everything look the same"
+          },
+          "correctAnswer": "B",
+          "skillType": "Inference-Advanced",
+          "difficultyLevel": 4
+        },
+        {
+          "questionNumber": 21,
+          "questionText": "What does the author mean by describing the bread's scent as \"fundamental\" and \"primal\"?",
+          "options": {
+            "A": "That bread is the most important food",
+            "B": "That the smell is unpleasant and primitive",
+            "C": "That bread represents a basic, ancient human need that connects across time and cultures",
+            "D": "That bread-making is a simple, unsophisticated process"
+          },
+          "correctAnswer": "C",
+          "skillType": "Comprehension-Analytical",
+          "difficultyLevel": 4
+        },
+        {
+          "questionNumber": 22,
+          "questionText": "The author describes the morning sounds as creating \"a kind of urban symphony.\" This metaphor suggests:",
+          "options": {
+            "A": "That actual musical instruments are being played",
+            "B": "That the diverse, overlapping sounds combine into a harmonious, complex whole despite seeming chaotic",
+            "C": "That symphonies are commonly performed in markets",
+            "D": "That the market is too noisy to be pleasant"
+          },
+          "correctAnswer": "B",
+          "skillType": "Vocabulary-Figurative",
+          "difficultyLevel": 5
+        },
+        {
+          "questionNumber": 23,
+          "questionText": "What is the author's main insight about authenticity and tradition?",
+          "options": {
+            "A": "That authentic places never change at all",
+            "B": "That tradition requires rejecting all modern elements",
+            "C": "That authenticity means maintaining continuity of purpose and pattern while adapting to change",
+            "D": "That old markets are better than modern shopping centers"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Advanced",
+          "difficultyLevel": 5
+        },
+        {
+          "questionNumber": 24,
+          "questionText": "The author describes navigating \"partly by nose.\" What does this detail contribute to the passage's overall meaning?",
+          "options": {
+            "A": "It shows the author has an unusually strong sense of smell",
+            "B": "It demonstrates how the market engages multiple senses, creating deep, layered experience beyond visual tourism",
+            "C": "It proves that smells are more important than sights",
+            "D": "It suggests the market has poor signage"
+          },
+          "correctAnswer": "B",
+          "skillType": "Comprehension-Synthesis",
+          "difficultyLevel": 5
+        },
+        {
+          "questionNumber": 25,
+          "questionText": "What does the author suggest by noting that goods have changed but \"the fundamental pattern persists\"?",
+          "options": {
+            "A": "That people should only buy traditional items",
+            "B": "That the market has declined in quality",
+            "C": "That human patterns of gathering and exchange are deeper and more enduring than specific objects bought and sold",
+            "D": "That plastic toys don't belong in traditional markets"
+          },
+          "correctAnswer": "C",
+          "skillType": "Inference-Advanced",
+          "difficultyLevel": 5
+        },
+        {
+          "questionNumber": 26,
+          "questionText": "The word \"medina\" comes from Arabic. Based on context clues in the passage, a medina most likely refers to:",
+          "options": {
+            "A": "The old, historic quarter of a North African city",
+            "B": "A type of traditional marketplace",
+            "C": "The sunrise time of day",
+            "D": "A style of Moroccan architecture"
+          },
+          "correctAnswer": "A",
+          "skillType": "Vocabulary-Analysis",
+          "difficultyLevel": 5
+        }
+      ]
+    }
+  ]
+}
